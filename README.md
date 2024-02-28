@@ -1,6 +1,7 @@
 # Student-Database-Management-System
 This project is used to store records and results of students
-**Features**
+
+**Features Of Project**
 1) Two sections: admin and student, with different permissions and access levels
 2) Live demo of the project interface, showcasing login, and navigation functionality
 3) Overview of admin section features and student registration/result display
